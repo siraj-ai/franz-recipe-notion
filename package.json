@@ -1,0 +1,14 @@
+{
+  "id": "notion",
+  "name": "Notion",
+  "version": "1.0.0",
+  "description": "Notion",
+  "main": "index.js",
+  "author": "Siraj Farhan <hello@siraj.ai>",
+  "license": "MIT",
+  "config": {
+    "serviceURL": "https://notion.so/{teamId}",
+    "hasTeamId": true,
+    "urlInputPrefix": true
+  }
+}
